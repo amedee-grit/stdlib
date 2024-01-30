@@ -9,4 +9,4 @@ All rights reserved.
 
 ## Contributing
 
-We welcome contributions from the community. Please see the [contributing guide](CONTRIBUTING.md) for more information.
+We welcome contributions from the community. Please see the contributing guide for more information.
